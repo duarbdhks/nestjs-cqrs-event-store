@@ -1,0 +1,13 @@
+version: "3.2"
+
+services:
+  eventstore:
+    container_name: eventstore
+    ports:
+      - "2113:2113"
+      - "1113:1113"
+    image: eventstore/eventstore:release-5.0.11
+    labels:
+      kompose.service.type: nodeport
+      kompose.service.expose: "true"
+      kompose.image-pull-policy: "Always"

@@ -1,0 +1,1 @@
+{"version":3,"file":"event.js","sourceRoot":"","sources":["../../../src/common/event-store/event.ts"],"names":[],"mappings":";;;AAEA,MAAsB,KAAK;IACzB,YACkB,QAAgB,EAChB,SAAiB,EACjB,OAAe,EAAE,EACjB,WAAmB,EAAE;QAHrB,aAAQ,GAAR,QAAQ,CAAQ;QAChB,cAAS,GAAT,SAAS,CAAQ;QACjB,SAAI,GAAJ,IAAI,CAAa;QACjB,aAAQ,GAAR,QAAQ,CAAa;IACpC,CAAC;CACL;AAPD,sBAOC"}
